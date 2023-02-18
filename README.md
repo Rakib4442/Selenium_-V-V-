@@ -1,5 +1,5 @@
 # Selenium_-V-V-
-Automation testing using Selenium.\
+Automation testing using Selenium.
 
 Navigate to the following website https://www.saucedemo.com/ \
 Login to the system as "standard_user".\
